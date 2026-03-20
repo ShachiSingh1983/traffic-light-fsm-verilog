@@ -18,7 +18,7 @@ RST → RED (6 cycles) → GREEN (4 cycles) → YELLOW (2 cycles) → RED ...
 ```
 
 ## Simulation Waveform
-![Waveform](waveform.png)
+![Waveform](Waveforms.png)
 
 ## Tools Used
 - Verilog HDL
